@@ -5,7 +5,8 @@
 To begin Regex is similar to doing "command + f" or "cntr+f" in terms of being to able to search the document for something. The biggest difference is that with Regex or regular expressions the user can be used when you need something that's a little more broad. Regex is more-so used for pattern recognition, but can also get very specific.
 I will be using a basic expression.
 /([A-Z][A-Z][A-Z])\w|([A-Z][a-z])/g
-(I am using this expression to pull information from this page https://www.cardboardconnection.com/2022-panini-world-cup-stickers-qatar-cards)
+(I am using this expression to pull information from this page specifically country codes and the players that play for those respective countries.
+https://www.cardboardconnection.com/2022-panini-world-cup-stickers-qatar-cards)
 
 ## Table of Contents
 
